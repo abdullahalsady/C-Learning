@@ -15,7 +15,7 @@
 [Compailar](https://sourceforge.net/projects/mingw/)  
 [Setup Video](https://www.youtube.com/watch?v=KYxLEDF6kjs&t=1103s)
 
-### __C__ Code লিখার জন্য লাগবে সেটা হচ্ছে IDE || Code Editor
+### __C__ Code লিখার জন্য যা লাগবে সেটা হচ্ছে IDE || Code Editor
 ___
 [Code Editor](https://code.visualstudio.com/)
 
