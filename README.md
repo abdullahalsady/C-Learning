@@ -30,7 +30,6 @@ ___
 __Follow Me__
 <br/> 
 
-[![Facebook](./images/facebook.png)](https://www.facebook.com/div.sady)
 
 <a href="https://www.facebook.com/div.sady"><img src="./images/facebook.png" alt="Facebook" height="30px"></a>
 <a href="https://www.instagram.com/div.sady"><img src="./images/ins.png" alt="instagram" height="30px"></a>
