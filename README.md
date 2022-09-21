@@ -31,7 +31,7 @@ ___
 
 __Personal Info__  
 | Name | Email | Address |
-| :---- | :----:| :-----:|
+| :----: | :----:| :-----:|
 | Abdullah Al Sady | dev.sady@gmail.com | Dhanmondi 32, Dhaka, Bangladesh |
 
 <br/>
