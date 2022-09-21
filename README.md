@@ -19,7 +19,7 @@
 ___
 [Code Editor](https://code.visualstudio.com/)
 
-### __C__ Code run করার 4টা step এ
+### __C__ Code run করে 4টা step এ
 ___
 i. Editing. (code লিখা)
 
