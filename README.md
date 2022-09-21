@@ -19,6 +19,18 @@
 ___
 [Code Editor](https://code.visualstudio.com/)
 
+### __C__ Code run করার 4টা step এ
+___
+i. Editing. (code লিখা)
+
+ii. Compailing. (code compaile করে মেশিন code রুপান্তর করা)
+
+iii. Linking to the Compiled file. (মেশিন code কে অন্য একটা .exe file এ রাখা)  
+
+iv. Executing. (মেশিন code এর file টা কে run করা)   
+
+<br/>
+
 ### __C__ Code run করার জন্য যে Command গুলো Use করা হয়
 ---
 ```
