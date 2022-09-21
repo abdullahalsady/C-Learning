@@ -32,10 +32,10 @@ __Follow Me__
 
 [![Facebook](./images/facebook.png)](https://www.facebook.com/div.sady)
 
-<a href="https://www.facebook.com/div.sady"><img src="./images/facebook.PNG" alt="Facebook" height="30px"></a>
-<a href="https://www.instagram.com/div.sady"><img src="./images/ins.PNG" alt="instagram" height="30px"></a>
-<a href="https://www.twitter.com/AbdullahAlSady5"><img src="./images/twitter.PNG" alt="twitter" height="30px"></a>
-<a href="https://www.linkedin.com/in/programmer-sady"><img src="./images/in.PNG" alt="linkdin" height="30px"></a>
+<a href="https://www.facebook.com/div.sady"><img src="./images/facebook.png" alt="Facebook" height="30px"></a>
+<a href="https://www.instagram.com/div.sady"><img src="./images/ins.png" alt="instagram" height="30px"></a>
+<a href="https://www.twitter.com/AbdullahAlSady5"><img src="./images/twitter.png" alt="twitter" height="30px"></a>
+<a href="https://www.linkedin.com/in/programmer-sady"><img src="./images/in.png" alt="linkdin" height="30px"></a>
 
 
 
