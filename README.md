@@ -21,10 +21,12 @@ ___
 
 ### __C__ Code run করার জন্য যে Command গুলো Use করা হয়
 ---
->` gcc filename.ext -o file `  
-
->` ./file `
-
+```
+ gcc filename.ext -o file 
+```  
+```
+ ./file 
+```
 <br/>
 
 __Follow Me__
