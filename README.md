@@ -22,10 +22,10 @@ ___
 ### __C__ Code run করার জন্য যে Command গুলো Use করা হয়
 ---
 ```
- gcc filename.ext -o file 
+ gcc file-name.ext -o file-name (যে নামে ফাইল create করবে সেই নাম)
 ```  
 ```
- ./file 
+ ./file-name (যে নামে ফাইল create করা হয়েছে)
 ```
 <br/>
 
